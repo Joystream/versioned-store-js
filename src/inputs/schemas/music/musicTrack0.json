@@ -59,7 +59,7 @@
       "classId": "Music Theme"
     },
     {
-      "name": "Link",
+      "name": "Links",
       "description": "A link to the artist page.",
       "type": "TextVec",
       "maxItems": 5,

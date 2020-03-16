@@ -42,7 +42,7 @@
       "classId": "Video Category"
     },
     {
-      "name": "Link",
+      "name": "Links",
       "description": "A link to the creators page.",
       "type": "TextVec",
       "maxItems": 5,

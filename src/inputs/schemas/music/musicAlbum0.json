@@ -72,7 +72,7 @@
       "classId": "Language"
     },
     {
-      "name": "Link",
+      "name": "Links",
       "description": "Links to the artist or album site or social media pages.",
       "type": "TextVec",
       "maxItems": 5,
