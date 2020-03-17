@@ -67,13 +67,12 @@
       "name": "Language",
       "description": "The language of the song lyrics in the album.",
       "required": false,
-      "type": "InternalVec",
-      "maxItems": 5,
+      "type": "Internal",
       "classId": "Language"
     },
     {
       "name": "Links",
-      "description": "Links to the artist or album site or social media pages.",
+      "description": "Links to the artist or album site, or social media pages.",
       "type": "TextVec",
       "maxItems": 5,
       "maxTextLength": 255
@@ -112,7 +111,7 @@
     },
     {
       "name": "Explicit",
-      "description": "Indicates whether the track contains explicit material.",
+      "description": "Indicates whether the album contains explicit material.",
       "required": true,
       "type": "Bool"
     },

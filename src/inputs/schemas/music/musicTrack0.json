@@ -60,7 +60,7 @@
     },
     {
       "name": "Links",
-      "description": "A link to the artist page.",
+      "description": "Links to the artist site or social media pages.",
       "type": "TextVec",
       "maxItems": 5,
       "maxTextLength": 255

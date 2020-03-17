@@ -43,7 +43,7 @@
     },
     {
       "name": "Links",
-      "description": "A link to the creators page.",
+      "description": "Links to the creators pages.",
       "type": "TextVec",
       "maxItems": 5,
       "maxTextLength": 255

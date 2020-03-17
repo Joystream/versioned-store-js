@@ -11,14 +11,14 @@
       "name": "Featured Videos",
       "description": "Videos featured in the Video tab.",
       "type": "InternalVec",
-      "maxItems": 6,
+      "maxItems": 12,
       "classId": "Video"
     },
     {
       "name": "Featured Albums",
       "description": "Music albums featured in the Music tab.",
       "type": "InternalVec",
-      "maxItems": 6,
+      "maxItems": 12,
       "classId": "Music Album"
     }
   ]
