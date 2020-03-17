@@ -1,0 +1,7 @@
+{
+  "name": "Content License",
+  "description": "Class for specifying the license under which content is published.",
+  "add_schema_restricted_to_lead": true,
+  "create_entity_restricted_to_lead": true
+}
+// Only lead can create entitites and add schemas.

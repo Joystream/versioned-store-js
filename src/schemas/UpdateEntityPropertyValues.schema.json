@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://joystream.org/UpdateEntityPropertyValues.schema.schema.json",
+  "title": "UpdateEntityPropertyValues",
+  "description": "JSON schema to update entity properties in Joystream network",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "entityId",
+    "newPropertyValues"
+  ],
+  "properties": {
+    "entityId": { "$ref": "#/definitions/EntityId" },
+    "newPropertyValues": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "value"
+        ],
+        "properties": {
+          "name": { "$ref": "#/definitions/PropertyName" },
+          "value": { "$ref": "#/definitions/PropertyValue" }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "EntityId": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "PropertyName": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "SinglePropertyValue": {
+      "anyOf": [
+        { "type": "boolean" },
+        { "type": "integer" }, 
+        { "type": "string", "minLength": 1 },
+        { "$ref": "#/definitions/EntityId" }
+      ]
+    },
+    "VecPropertyValue": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "$ref": "#/definitions/SinglePropertyValue"
+      }
+    },
+    "PropertyValue": {
+      "oneOf": [
+        { "type": "null" },
+        { "$ref": "#/definitions/SinglePropertyValue" },
+        { "$ref": "#/definitions/VecPropertyValue" }
+      ]
+    }
+  }
+}

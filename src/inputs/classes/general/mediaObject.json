@@ -1,0 +1,7 @@
+{
+  "name": "Media Object",
+  "description": "Class for resolving a content entity to an actual media file or link.",
+  "add_schema_restricted_to_lead": true,
+  "create_entity_restricted_to_lead": false
+}
+// Only lead can add schemas.

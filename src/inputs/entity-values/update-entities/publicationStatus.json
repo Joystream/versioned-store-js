@@ -1,0 +1,26 @@
+{
+    "classId": "Publication Status",
+    "entities":
+    [
+        {
+            "entityId": 185,
+            "newPropertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Public Content"
+                }
+            ]
+        },
+        {
+            "entityId": 186,
+            "newPropertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Unlisted Content"
+                }
+            ]
+        }
+    ]
+}

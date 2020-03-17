@@ -1,0 +1,50 @@
+{
+    "classId": "Curation Status",
+    "entities":
+    [
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Edited"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Updated schema"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Under review"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Removed"
+                }
+            ]
+        }
+    ]
+}

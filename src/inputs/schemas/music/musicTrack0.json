@@ -1,0 +1,124 @@
+{
+  "classId": "Music Track",
+  "newProperties": [
+    {
+      "name": "Title",
+      "description": "The title of the track",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Artist",
+      "description": "The artist, composer, band or group that published the track.",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Thumbnail",
+      "description": "URL to track cover art: NOTE: Should be an https link to a square image, between 1400x1400 and 3000x3000 pixels, in JPEG or PNG format.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Description",
+      "description": "Information about the track.",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Language",
+      "description": "The language of the lyrics in the track.",
+      "type": "Internal",
+      "classId": "Language"
+    },
+    {
+      "name": "First Released",
+      "description": "When the track was first released",
+      "required": true,
+      "type": "Int64"
+    },
+    {
+      "name": "Genre",
+      "description": "The genre of the track.",
+      "type": "Internal",
+      "classId": "Music Genre"
+    },
+    {
+      "name": "Mood",
+      "description": "The mood of the track.",
+      "type": "Internal",
+      "classId": "Music Mood"
+    },
+    {
+      "name": "Theme",
+      "description": "The theme of the track.",
+      "type": "Internal",
+      "classId": "Music Theme"
+    },
+    {
+      "name": "Links",
+      "description": "Links to the artist site or social media pages.",
+      "type": "TextVec",
+      "maxItems": 5,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Composer or songwriter",
+      "description": "The composer(s) and/or songwriter(s) of the track.",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Lyrics",
+      "description": "Link to the track lyrics.",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Object",
+      "description": "The entityId of the object in the data directory.",
+      "type": "Internal",
+      "classId": "Media Object"
+    },
+    {
+      "name": "Publication Status",
+      "description": "The publication status of the track.",
+      "required": true,
+      "type": "Internal",
+      "classId": "Publication Status"
+    },
+    {
+      "name": "Curation Status",
+      "description": "The publication status of the track set by the a content curator on the platform.",
+      "type": "Internal",
+      "classId": "Curation Status"
+    },
+    {
+      "name": "Explicit",
+      "description": "Indicates whether the track contains explicit material.",
+      "required": true,
+      "type": "Bool"
+    },
+    {
+      "name": "License",
+      "description": "The license of which the track is released under.",
+      "required": true,
+      "type": "Internal",
+      "classId": "Content License"
+    },
+    {
+      "name": "Attribution",
+      "description": "If the License requires attribution, add this here.",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Channel Id",
+      "description": "Id of the channel this track is published under.",
+      "type": "Uint64"
+    }
+  ]
+}

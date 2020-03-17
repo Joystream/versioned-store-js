@@ -1,0 +1,72 @@
+{
+  "classId": "Book Series",
+  "newProperties": [
+    {
+      "name": "Title",
+      "description": "The title of the book series",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Description",
+      "description": "Description of the book series",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 4000
+    },
+    {
+      "name": "Book Cover",
+      "description": "URL to book thumbnail: TODO",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Language",
+      "description": "The language(s) the book series is available in.",
+      "required": true,
+      "type": "InternalVec",
+      "maxItems": 184,
+      "classId": "Language"
+    },
+    {
+      "name": "Books in the series",
+      "description": "The books that are in the series",
+      "type": "InternalVec",
+      "maxItems": 2000,
+      "classId": "Book Series Entry"
+    },
+    {
+      "name": "Author",
+      "description": "The author or authors of the series",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Synopsis",
+      "description": "A short description of the series",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Publication Status",
+      "description": "The publication status of the book item.",
+      "required": true,
+      "type": "Internal",
+      "classId": "Publication Status"
+    },
+    {
+      "name": "Curation Status",
+      "description": "The publication status of the book item set by the a content curator on the platform.",
+      "type": "Internal",
+      "classId": "Curation Status"
+    },
+    {
+      "name": "Explicit",
+      "description": "Indicates whether the book item contains explicit material.",
+      "required": true,
+      "type": "Bool"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+	"classId": "Music Album",
+	"existingProperties": [
+		"Title",
+		"Artist",
+		"Thumbnail",
+		"Description",
+		"First Released",
+		"Genre",
+		"Mood",
+		"Theme",
+		"Tracks",
+		"Language",
+		"Link",
+		"Lyrics",
+		"Composer or songwriter",
+		"Explicit",
+		"Reviews",
+		"License",
+		"Attribution"
+	],
+	"newProperties": [
+		{
+			"name": "Make Available In Playlists For Otherss",
+			"description": "--",
+			"type": "Internal",
+			"classId": "Music Genre"
+		},
+		{
+			"name": "Make Available In Playlistss",
+			"description": "---",
+			"type": "InternalVec",
+			"maxItems": 6,
+			"classId": "Music Theme"
+		}
+	]
+}

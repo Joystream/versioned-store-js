@@ -1,0 +1,12 @@
+{
+  "classId": "Podcast Category",
+  "newProperties": [
+    {
+      "name": "Value",
+      "description": "Categories as defined for podcasts published in itunes. RSS: <channel><itunes:category>",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    }
+  ]
+}

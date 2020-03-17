@@ -1,0 +1,12 @@
+{
+  "classId": "Music Genre",
+  "newProperties": [
+    {
+      "name": "Value",
+      "description": "Genres for music.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 100
+    }
+  ]
+}

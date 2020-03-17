@@ -1,0 +1,7 @@
+{
+  "name": "Featured Content",
+  "description": "Class for setting featured content on the platform.",
+  "add_schema_restricted_to_lead": true,
+  "create_entity_restricted_to_lead": true
+}
+// Only lead can create entitites and add schemas.

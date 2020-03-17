@@ -1,0 +1,45 @@
+{
+  "classId": "Video Playlist",
+  "newProperties": [
+    {
+      "name": "Title",
+      "description": "The title of the playlist",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Playlist thumbnail",
+      "description": "URL to playlist thumbnail: NOTE: Should be an https link to an image of ratio 16:9, ideally 1280 pixels wide by 720 pixels tall, with a minimum width of 640 pixels, in JPEG or PNG format.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },    
+    {
+      "name": "Videos",
+      "description": "The videos in the playlist.",
+      "type": "InternalVec",
+      "maxItems": 1000,
+      "classId": "Video Playlist Item"
+    },
+    {
+      "name": "Information",
+      "description": "Information about the playlist.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 4000
+    },
+    {
+      "name": "Curation Status",
+      "description": "The publication status of the playlist set by the a content curator on the platform.",
+      "type": "Internal",
+      "classId": "Curation Status"
+    },
+    {
+      "name": "Explicit",
+      "description": "Indicates whether the video contains explicit material.",
+      "required": true,
+      "type": "Bool"
+    }
+  ]
+}

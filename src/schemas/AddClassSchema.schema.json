@@ -1,0 +1,199 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema",
+  "$id": "https://joystream.org/AddClassSchema.schema.json",
+  "title": "AddClassSchema",
+  "description": "JSON schema to describe a new schema for a certain class in Joystream network",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "classId"
+  ],
+  "properties": {
+    "classId": { "$ref": "#/definitions/ClassId" },
+    "existingProperties": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "$ref": "#/definitions/PropertyName" }
+    },
+    "newProperties": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "object",
+        "oneOf": [
+          { "$ref": "#/definitions/PrimitiveProperty" },
+          { "$ref": "#/definitions/TextProperty" },
+          { "$ref": "#/definitions/VecProperty" },
+          { "$ref": "#/definitions/TextVecProperty" },
+          { "$ref": "#/definitions/InternalProperty" },
+          { "$ref": "#/definitions/InternalVecProperty" }
+        ]
+      } 
+    }
+  },
+  "definitions": {
+    "PropertyName": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 100
+    },
+    "PropertyDescription": {
+      "type": "string",
+      "minLength": 1
+    },
+    "PropertyRequired": {
+      "type": "boolean",
+      "default": false
+    },
+    "MaxVecItems": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 65535
+    },
+    "MaxTextLength": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 65535
+    },
+    "ClassId": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "PrimitiveProperty": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "name"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "Bool",
+            "Uint16",
+            "Uint32",
+            "Uint64",
+            "Int16",
+            "Int32",
+            "Int64"
+          ]
+        },
+        "name": { "$ref": "#/definitions/PropertyName" },
+        "description": { "$ref": "#/definitions/PropertyDescription" },
+        "required": { "$ref": "#/definitions/PropertyRequired" }
+      }
+    },
+    "TextProperty": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "name",
+        "maxTextLength"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "Text"
+          ]
+        },
+        "name": { "$ref": "#/definitions/PropertyName" },
+        "description": { "$ref": "#/definitions/PropertyDescription" },
+        "required": { "$ref": "#/definitions/PropertyRequired" },
+        "maxTextLength": { "$ref": "#/definitions/MaxTextLength" }
+      }
+    },
+    "InternalProperty": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "name",
+        "classId"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "Internal"
+          ]
+        },
+        "name": { "$ref": "#/definitions/PropertyName" },
+        "description": { "$ref": "#/definitions/PropertyDescription" },
+        "required": { "$ref": "#/definitions/PropertyRequired" },
+        "classId": { "$ref": "#/definitions/ClassId" }
+      }
+    },
+    "VecProperty": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "name",
+        "maxItems"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "BoolVec",
+            "Uint16Vec",
+            "Uint32Vec",
+            "Uint64Vec",
+            "Int16Vec",
+            "Int32Vec",
+            "Int64Vec"
+          ]
+        },
+        "name": { "$ref": "#/definitions/PropertyName" },
+        "description": { "$ref": "#/definitions/PropertyDescription" },
+        "required": { "$ref": "#/definitions/PropertyRequired" },
+        "maxItems": { "$ref": "#/definitions/MaxVecItems" }
+      }
+    },
+    "TextVecProperty": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "name",
+        "maxItems",
+        "maxTextLength"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "TextVec"
+          ]
+        },
+        "name": { "$ref": "#/definitions/PropertyName" },
+        "description": { "$ref": "#/definitions/PropertyDescription" },
+        "required": { "$ref": "#/definitions/PropertyRequired" },
+        "maxItems": { "$ref": "#/definitions/MaxVecItems" },
+        "maxTextLength": { "$ref": "#/definitions/MaxTextLength" }
+      }
+    },
+    "InternalVecProperty": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "name",
+        "maxItems",
+        "classId"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "InternalVec"
+          ]
+        },
+        "name": { "$ref": "#/definitions/PropertyName" },
+        "description": { "$ref": "#/definitions/PropertyDescription" },
+        "required": { "$ref": "#/definitions/PropertyRequired" },
+        "maxItems": { "$ref": "#/definitions/MaxVecItems" },
+        "classId": { "$ref": "#/definitions/ClassId" }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "classId": "Content License",
+  "newProperties": [
+    {
+      "name": "Value",
+      "description": "The license of which the content is originally published under.",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    }
+  ]
+}

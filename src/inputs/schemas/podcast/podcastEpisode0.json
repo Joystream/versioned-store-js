@@ -1,0 +1,72 @@
+{
+  "classId": "Podcast Episode",
+  "newProperties": [
+    {
+      "name": "Title",
+      "description": "The title of the episode. RSS: <item><title>",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Description",
+      "description": "Description of the episode. Equivalent to <itunes:summary>. RSS: <item><description> OR <item><itunes:summary>",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 4000
+    },
+    {
+      "name": "Image",
+      "description": "URL to show thumbnail: NOTE: Artwork must be a minimum size of 1400 x 1400 pixels and a maximum size of 3000 x 3000 pixels, in JPEG or PNG format, 72 dpi, with appropriate file extensions (.jpg, .png), and in the RGB colorspace. Equivalent to <itunes:image>. RSS: <item><image><url> OR <item><itunes:image>",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Two letter Language code",
+      "description": "The language specified for the podcast episode. RSS: <channel><language>",
+      "required": true,
+      "type": "Internal",
+      "classId": 2
+    },
+    {
+      "name": "Language in English",
+      "description": "The language(s) used in the podcast episode. Stated in English.",
+      "type": "Internal",
+      "classId": "Language"
+    },
+    {
+      "name": "Object",
+      "description": "The ContentId of the file content file uploaded to the dataDirectory",
+      "type": "Internal",
+      "classId": "Media Object"
+    },
+    {
+      "name": "Author",
+      "description": "The author of the episode. Equivalent to <managingEditor> and <itunes:author>. RSS: <item><managingEditor> OR <item><itunes:author>",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Subtitle",
+      "description": "A short description of the episode. Equivalent to <itunes:subtitle>. RSS: <item><itunes:subtitle>",
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Season",
+      "description": "The season of the Podcast which the episode belongs to.  RSS: <item><itunes:season>",
+      "type": "Uint16"
+    },
+    {
+      "name": "Episode",
+      "description": "The episode number. RSS: <item><itunes:episode>",
+      "type": "Uint16"
+    },
+    {
+      "name": "Explicit",
+      "description": "Indicates whether the episode contains explicit material. You can specify the following values:. RSS: <item><itunes:explicit> ",
+      "type": "Bool"
+    }
+  ]
+}

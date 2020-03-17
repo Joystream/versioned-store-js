@@ -1,0 +1,25 @@
+{
+  "classId": "Book Entry Format",
+  "newProperties": [
+    {
+      "name": "Format",
+      "description": "The name of the file format of the book item.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 5
+    },
+    {
+      "name": "Extension",
+      "description": "The file extension of the book item.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 5
+    },
+    {
+      "name": "Images",
+      "description": "Wether the book item contains images or not.",
+      "required": true,
+      "type": "Bool"
+    }
+  ]
+}

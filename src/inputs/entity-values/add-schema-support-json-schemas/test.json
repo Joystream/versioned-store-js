@@ -1,0 +1,247 @@
+{
+    "classId": "Test",
+    "entities":
+    [
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "1",
+                    "value": true
+                },
+                {
+                    "name": "2",
+                    "value": 2
+                },
+                {
+                    "name": "3",
+                    "value": 3
+                },
+                {
+                    "name": "4",
+                    "value": 4
+                },
+                {
+                    "name": "5",
+                    "value": 5
+                },
+                {
+                    "name": "6",
+                    "value": 6
+                },
+                {
+                    "name": "7",
+                    "value": 7
+                },
+                {
+                    "name": "8",
+                    "value": "eight"
+                },
+                {
+                    "name": "9",
+                    "value": 9
+                },
+                {
+                    "name": "10",
+                    "value":
+                    [
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "11",
+                    "value":
+                    [
+                        11,
+                        16
+                    ]
+                },
+                {
+                    "name": "12",
+                    "value":
+                    [
+                        12,
+                        32
+                    ]
+                },
+                {
+                    "name": "13",
+                    "value":
+                    [
+                        13,
+                        64
+                    ]
+                },
+                {
+                    "name": "14",
+                    "value":
+                    [
+                        14,
+                        1,
+                        16
+                    ]
+                },
+                {
+                    "name": "15",
+                    "value":
+                    [
+                        15,
+                        1,
+                        32
+                    ]
+                },
+                {
+                    "name": "16",
+                    "value":
+                    [
+                        16,
+                        1,
+                        64
+                    ]
+                },
+                {
+                    "name": "17",
+                    "value":
+                    [
+                        "Seventeen,Text"
+                    ]
+                },
+                {
+                    "name": "18",
+                    "value":
+                    [
+                        18
+                    ]
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "1",
+                    "value": true
+                },
+                {
+                    "name": "2",
+                    "value": 22
+                },
+                {
+                    "name": "3",
+                    "value": 32
+                },
+                {
+                    "name": "4",
+                    "value": 42
+                },
+                {
+                    "name": "5",
+                    "value": 52
+                },
+                {
+                    "name": "6",
+                    "value": 62
+                },
+                {
+                    "name": "7",
+                    "value": 72
+                },
+                {
+                    "name": "8",
+                    "value": "eightAndTwo"
+                },
+                {
+                    "name": "9",
+                    "value": 92
+                },
+                {
+                    "name": "10",
+                    "value":
+                    [
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "11",
+                    "value":
+                    [
+                        11,
+                        16,
+                        2
+                    ]
+                },
+                {
+                    "name": "12",
+                    "value":
+                    [
+                        12,
+                        32,
+                        2
+                    ]
+                },
+                {
+                    "name": "13",
+                    "value":
+                    [
+                        13,
+                        64,
+                        2
+                    ]
+                },
+                {
+                    "name": "14",
+                    "value":
+                    [
+                        14,
+                        1,
+                        16,
+                        2
+                    ]
+                },
+                {
+                    "name": "15",
+                    "value":
+                    [
+                        15,
+                        1,
+                        32,
+                        2
+                    ]
+                },
+                {
+                    "name": "16",
+                    "value":
+                    [
+                        16,
+                        1,
+                        64,
+                        2
+                    ]
+                },
+                {
+                    "name": "17",
+                    "value":
+                    [
+                        "Seventeen",
+                        "Text",
+                        "Two"
+                    ]
+                },
+                {
+                    "name": "18",
+                    "value":
+                    [
+                        18,
+                        2
+                    ]
+                }
+            ]
+        }
+    ]
+}

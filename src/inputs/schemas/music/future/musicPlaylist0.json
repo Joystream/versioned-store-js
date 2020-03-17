@@ -1,0 +1,73 @@
+{
+  "classId": "Music Playlist",
+  "newProperties": [
+    {
+      "name": "Playlist Title",
+      "description": "The title of the playlist",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Playlist Cover",
+      "description": "URL to playlist cover thumbnail: NOTE: Should be an https link to a square image, between 1400x1400 and 3000x3000 pixels, in JPEG or PNG format.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Tracks",
+      "description": "The tracks in the playlist.",
+      "type": "InternalVec",
+      "maxItems": 1000,
+      "classId": "Music Track"
+    },
+    {
+      "name": "Information",
+      "description": "Information about the playlist.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 4000
+    },
+    {
+      "name": "Genre",
+      "description": "The genre(s) of the playlist.",
+      "type": "InternalVec",
+      "maxItems": 3,
+      "classId": "Music Genre"
+    },
+    {
+      "name": "Mood",
+      "description": "The mood(s) of the playlist.",
+      "type": "InternalVec",
+      "maxItems": 3,
+      "classId": "Music Mood"
+    },
+    {
+      "name": "Theme",
+      "description": "The theme(s) of the playlist.",
+      "type": "InternalVec",
+      "maxItems": 3,
+      "classId": "Music Theme"
+    },
+    {
+      "name": "Publication Status",
+      "description": "The publication status of the album.",
+      "required": true,
+      "type": "Internal",
+      "classId": "Publication Status"
+    },
+    {
+      "name": "Curation Status",
+      "description": "The publication status of the album set by the a content curator on the platform.",
+      "type": "Internal",
+      "classId": "Curation Status"
+    },
+    {
+      "name": "Explicit",
+      "description": "Indicates whether the video contains explicit material.",
+      "required": true,
+      "type": "Bool"
+    }
+  ]
+}

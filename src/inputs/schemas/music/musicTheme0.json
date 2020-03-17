@@ -1,0 +1,12 @@
+{
+  "classId": "Music Theme",
+  "newProperties": [
+    {
+      "name": "Value",
+      "description": "Themes for music.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 100
+    }
+  ]
+}

@@ -1,0 +1,237 @@
+{
+    "classId": "Music Genre",
+    "entities":
+    [
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Avant-Garde"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Blues"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Children's"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Classical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Comedy/Spoken"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Country"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Easy Listening"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Electronic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Folk"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Holiday"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "International"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Jazz"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Latin"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "New Age"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Pop/Rock"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "R&B"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rap"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Reggae"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Religious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Stage & Screen"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Vocal"
+                }
+            ]
+        }
+    ]
+}

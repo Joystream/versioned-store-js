@@ -1,0 +1,13 @@
+{
+  "classId": "Curation Status",
+  "existingProperties":
+  ["Reviewed and Approved"],
+  "newProperties": [
+    {
+      "name": "Test",
+      "description": "-",
+      "required": true,
+      "type": "Bool"
+    }
+  ]
+}

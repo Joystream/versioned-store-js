@@ -1,0 +1,17 @@
+{
+  "classId": "Test",
+  "entities":
+  [
+      {
+          "entityId": 696,
+          "schemaId": 1,
+          "propertyValues":
+          [
+              {
+                  "name": "20",
+                  "value": [true,false]
+              }
+          ]
+      }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "classId": "Language",
+  "existingProperties":
+  ["Value"],
+  "newProperties": [
+    {
+      "name": "Test",
+      "description": "-",
+      "type": "Text",
+      "maxTextLength": 2
+    }
+  ]
+}

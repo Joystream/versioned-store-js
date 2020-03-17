@@ -1,0 +1,24 @@
+{
+	"classId": "Music Album",
+	"existingProperties": [
+		"Title",
+		"Artist",
+		"Thumbnail",
+		"Description",
+		"First Released",
+		"Genre",
+		"Mood",
+		"Theme",
+		"Tracks",
+		"Language",
+		"Link",
+		"Lyrics",
+		"Composer or songwriter",
+		"Reviews",
+		"Publication Status",
+		"Curation Status",
+		"Explicit",
+		"License",
+		"Attribution"
+	]
+}

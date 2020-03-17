@@ -1,0 +1,121 @@
+{
+    "classId": "Test",
+    "entities":
+    [
+        {
+            "entityId": 696,
+            "newPropertyValues":
+            [
+                {
+                    "name": "1",
+                    "value": false
+                },
+                {
+                    "name": "2",
+                    "value": 2
+                },
+                {
+                    "name": "3",
+                    "value": 3
+                },
+                {
+                    "name": "4",
+                    "value": 4
+                },
+                {
+                    "name": "5",
+                    "value": 5
+                },
+                {
+                    "name": "6",
+                    "value": 6
+                },
+                {
+                    "name": "7",
+                    "value": 7
+                },
+                {
+                    "name": "8",
+                    "value": "eight"
+                },
+                {
+                    "name": "9",
+                    "value": 9
+                },
+                {
+                    "name": "10",
+                    "value":
+                    [
+                        true,
+                        false
+                    ]
+                },
+                {
+                    "name": "11",
+                    "value":
+                    [
+                        11,
+                        16
+                    ]
+                },
+                {
+                    "name": "12",
+                    "value":
+                    [
+                        12,
+                        32
+                    ]
+                },
+                {
+                    "name": "13",
+                    "value":
+                    [
+                        13,
+                        64
+                    ]
+                },
+                {
+                    "name": "14",
+                    "value":
+                    [
+                        14,
+                        1,
+                        16
+                    ]
+                },
+                {
+                    "name": "15",
+                    "value":
+                    [
+                        15,
+                        1,
+                        32
+                    ]
+                },
+                {
+                    "name": "16",
+                    "value":
+                    [
+                        16,
+                        1,
+                        64
+                    ]
+                },
+                {
+                    "name": "17",
+                    "value":
+                    [
+                        "Seventeen,Text"
+                    ]
+                },
+                {
+                    "name": "18",
+                    "value":
+                    [
+                        18
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "classId": "Music Mood",
+  "newProperties": [
+    {
+      "name": "Value",
+      "description": "Moods for music.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 100
+    }
+  ]
+}

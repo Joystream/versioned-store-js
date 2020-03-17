@@ -1,0 +1,12 @@
+{
+  "classId": "Book Series Entry",
+  "newProperties": [
+    {
+      "name": "Book Item",
+      "description": "A specific publication of the book. Ie. translation, illustrated version, etc.",
+      "type": "InternalVec",
+      "maxItems": 100,
+      "classId": "Book Item"
+    }
+  ]
+}

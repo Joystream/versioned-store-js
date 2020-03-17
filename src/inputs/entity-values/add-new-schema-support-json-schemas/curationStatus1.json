@@ -1,0 +1,40 @@
+{
+    "classId": "Curation Status",
+    "entities":
+    [
+        {
+            "entityId": 187,
+            "schemaId": 2,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Edited Content"
+                },
+                {
+                    "name": "Reviewed and Approved",
+                    "value": false
+                },
+                {
+                    "name": "Test",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "entityId": 188,
+            "schemaId": 2,
+            "propertyValues":
+            [
+                {
+                    "name": "Test",
+                    "value": false
+                }
+            ]
+        },
+        {
+            "entityId": 189,
+            "schemaId": 1
+        }
+    ]
+}

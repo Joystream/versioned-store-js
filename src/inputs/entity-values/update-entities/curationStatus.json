@@ -1,0 +1,46 @@
+{
+    "classId": "Curation Status",
+    "entities":
+    [
+        {
+            "entityId": 187,
+            "newPropertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Edited Content"
+                }
+            ]
+        },
+        {
+            "entityId": 188,
+            "newPropertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Updated Schema"
+                }
+            ]
+        },
+        {
+            "entityId": 189,
+            "newPropertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Under Review by Curators"
+                }
+            ]
+        },
+        {
+            "entityId": 190,
+            "newPropertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Removed Content"
+                }
+            ]
+        }
+    ]
+}

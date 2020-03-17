@@ -1,0 +1,7 @@
+{
+  "name": "Music Album",
+  "description": "An album is a collection of tracks or audio recordings. Usually by a single artist or group.",
+  "add_schema_restricted_to_lead": true,
+  "create_entity_restricted_to_lead": false
+}
+// Only lead can add schemas.

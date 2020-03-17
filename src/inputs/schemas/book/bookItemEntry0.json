@@ -1,0 +1,18 @@
+{
+  "classId": "Book Item Entry",
+  "newProperties": [
+    {
+      "name": "Format and File Type",
+      "description": "The file format, extension and additional metadata for the book item entry.",
+      "required": true,
+      "type": "Internal",
+      "classId": "Book Entry Format"
+    },
+    {
+      "name": "Object",
+      "description": "The entityId of the object in the data directory.",
+      "type": "Internal",
+      "classId": "Media Object"
+    }
+  ]
+}

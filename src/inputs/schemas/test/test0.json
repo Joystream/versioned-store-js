@@ -1,0 +1,109 @@
+{
+  "classId": "Test",
+  "newProperties":
+  [
+      {
+          "name": "1",
+          "description": "1a",
+          "type": "Bool"
+      },
+      {
+          "name": "2",
+          "description": "2a",
+          "type": "Uint16"
+      },
+      {
+          "name": "3",
+          "description": "3a",
+          "type": "Uint32"
+      },
+      {
+          "name": "4",
+          "description": "4a",
+          "type": "Uint64"
+      },
+      {
+          "name": "5",
+          "description": "5a",
+          "type": "Int16"
+      },
+      {
+          "name": "6",
+          "description": "6a",
+          "type": "Int32"
+      },
+      {
+          "name": "7",
+          "description": "7a",
+          "type": "Int64"
+      },
+      {
+          "name": "8",
+          "description": "8a",
+          "type": "Text",
+          "maxTextLength": 255
+      },
+      {
+          "name": "9",
+          "description": "9a",
+          "type": "Internal",
+          "classId":"Language"
+      },
+      {
+          "name": "10",
+          "description": "10a",
+          "maxItems": 100,
+          "type": "BoolVec"
+      },
+      {
+          "name": "11",
+          "description": "11a",
+          "maxItems": 100,
+          "type": "Uint16Vec"
+      },
+      {
+          "name": "12",
+          "description": "12a",
+          "maxItems": 100,
+          "type": "Uint32Vec"
+      },
+      {
+          "name": "13",
+          "description": "13a",
+          "maxItems": 100,
+          "type": "Uint64Vec"
+      },
+      {
+          "name": "14",
+          "description": "14a",
+          "maxItems": 100,
+          "type": "Int16Vec"
+      },
+      {
+          "name": "15",
+          "description": "15a",
+          "maxItems": 100,
+          "type": "Int32Vec"
+      },
+      {
+          "name": "16",
+          "description": "16a",
+          "maxItems": 100,
+          "type": "Int64Vec"
+      },
+      {
+          "name": "17",
+          "description": "17a",
+          "type": "TextVec",
+          "maxItems": 100,
+          "maxTextLength": 255
+      },
+      {
+          "name": "18",
+          "description": "18a",
+          "maxItems": 100,
+          "type": "InternalVec",
+          "classId": "Language"
+      }
+  ]
+}

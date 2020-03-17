@@ -1,0 +1,45 @@
+{
+  "classId": 123,
+  "existingProperties": [
+    "someOldProp",
+    "anotherPreviouslyAddedProp"
+  ],
+  "newProperties": [
+    {
+      "name": "Some Uint16",
+      "type": "Uint16"
+    },
+    {
+      "name": "Some Bool + description",
+      "type": "Uint16",
+      "description": "The best bool prop ever"
+    },
+    {
+      "name": "Some Text",
+      "type": "Text",
+      "maxTextLength": 100
+    },
+    {
+      "name": "Some Uint16 Array",
+      "type": "Uint16Vec",
+      "maxItems": 100
+    },
+    {
+      "name": "Some Internal prop",
+      "type": "Internal",
+      "classId": 34
+    },
+    {
+      "name": "Some Text Array",
+      "type": "TextVec",
+      "maxItems": 100,
+      "maxTextLength": 20
+    },
+    {
+      "name": "Some Internal Array",
+      "type": "InternalVec",
+      "maxItems": 12,
+      "classId": 34
+    }
+  ]
+}

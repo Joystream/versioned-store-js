@@ -1,0 +1,114 @@
+{
+  "classId": 123,
+  "existingProperties": [
+    "someOldProp",
+    "anotherPreviouslyAddedProp"
+  ],
+  "newProperties": [
+    {
+      "name": "title",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 100
+    },
+    {
+      "name": "itunes:title",
+      "type": "Text",
+      "maxTextLength": 100
+    },
+    {
+      "name": "pubDate",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 100
+    },
+    {
+      "name": "guid",
+      "type": "Text",
+      "maxTextLength": 32
+    },
+    {
+      "name": "link",
+      "type": "Text",
+      "maxTextLength": 1000
+    },
+    {
+      "name": "itunes:image",
+      "type": "Text",
+      "maxTextLength": 1000
+    },
+    {
+      "name": "description",
+      "type": "Text",
+      "maxTextLength": 2000
+    },
+    {
+      "name": "content:encoded",
+      "type": "Text",
+      "maxTextLength": 2000
+    },
+    {
+      "name": "enclosure/length",
+      "type": "Uint64",
+      "description": "Size of this episode in bytes. Example: 74063411"
+    },
+    {
+      "name": "enclosure/type",
+      "type": "Text",
+      "maxTextLength": 50,
+      "description": "Example: 'audio/mpeg'"
+    },
+    {
+      "name": "enclosure/url",
+      "type": "Text",
+      "maxTextLength": 1000,
+      "description": "URL of the actual content."
+    },
+    {
+      "name": "itunes:duration",
+      "type": "Text",
+      "maxTextLength": 20,
+      "description": "Example: '30:52'"
+    },
+    {
+      "name": "itunes:explicit",
+      "type": "Text",
+      "maxTextLength": 10
+    },
+    {
+      "name": "itunes:keywords",
+      "type": "TextVec",
+      "maxItems": 20,
+      "maxTextLength": 50
+    },
+    {
+      "name": "itunes:subtitle",
+      "type": "Text",
+      "maxTextLength": 100
+    },
+    {
+      "name": "itunes:summary",
+      "type": "Text",
+      "maxTextLength": 2000
+    },
+    {
+      "name": "itunes:season",
+      "type": "Uint16"
+    },
+    {
+      "name": "itunes:episode",
+      "type": "Uint16"
+    },
+    {
+      "name": "itunes:episodeType",
+      "type": "Text",
+      "maxTextLength": 20,
+      "description": "Example: 'full'"
+    },
+    {
+      "name": "itunes:author",
+      "type": "Text",
+      "maxTextLength": 100
+    }
+  ]
+}

@@ -1,0 +1,3185 @@
+{
+    "classId": "Music Mood",
+    "entities":
+    [
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Acerbic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Aggressive"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Agreeable"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Airy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ambitious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Amiable/Good-Natured"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Angry"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Angst-Ridden"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Anguished/Distraught"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Angular"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Animated"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Apocalyptic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Arid"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Athletic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Atmospheric"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Austere"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Autumnal"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Belligerent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Benevolent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Bitter"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Bittersweet"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Bleak"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Boisterous"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Bombastic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Brash"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Brassy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Bravado"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Bright"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Brittle"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Brooding"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Calm/Peaceful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Campy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Capricious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Carefree"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Cartoonish"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Cathartic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Celebratory"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Cerebral"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Cheerful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Child-like"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Circular"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Clinical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Cold"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Comic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Complex"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Concise"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Confident"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Confrontational"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Cosmopolitan"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Crunchy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Cynical/Sarcastic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Dark"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Declamatory"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Defiant"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Delicate"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Demonic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Desperate"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Detached"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Devotional"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Difficult"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Dignified/Noble"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Dramatic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Dreamy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Driving"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Druggy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Earnest"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Earthy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ebullient"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Eccentric"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ecstatic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Eerie"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Effervescent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Elaborate"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Elegant"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Elegiac"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Energetic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Enigmatic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Epic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Erotic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ethereal"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Euphoric"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Exciting"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Exotic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Explosive"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Extroverted"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Exuberant"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Fantastic/Fantasy-like"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Feral"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Feverish"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Fierce"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Fiery"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Flashy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Flowing"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Fractured"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Freewheeling"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Fun"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Funereal"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Gentle"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Giddy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Gleeful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Gloomy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Graceful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Greasy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Grim"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Gritty"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Gutsy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Happy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Harsh"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Hedonistic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Heroic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Hostile"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Humorous"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Hungry"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Hymn-like"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Hyper"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Hypnotic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Improvisatory"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Indulgent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Innocent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Insular"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Intense"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Intimate"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Introspective"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ironic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Irreverent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Jovial"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Joyous"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Kinetic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Knotty"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Laid-Back/Mellow"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Languid"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Lazy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Light"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Literate"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Lively"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Lonely"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Lush"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Lyrical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Macabre"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Magical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Majestic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Malevolent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Manic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Marching"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Martial"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Meandering"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Mechanical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Meditative"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Melancholy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Menacing"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Messy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Mighty"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Monastic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Monumental"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Motoric"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Mysterious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Mystical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Naive"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Narcotic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Narrative"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Negative"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Nervous/Jittery"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Nihilistic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Nocturnal"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Nostalgic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ominous"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Optimistic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Opulent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Organic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ornate"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Outraged"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Outrageous"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Paranoid"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Passionate"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Pastoral"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Patriotic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Perky"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Philosophical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Plain"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Plaintive"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Playful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Poignant"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Positive"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Powerful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Precious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Provocative"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Pulsing"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Pure"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Quirky"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rambunctious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Ramshackle"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Raucous"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Reassuring/Consoling"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rebellious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Reckless"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Refined"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Reflective"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Regretful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Relaxed"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Reserved"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Resolute"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Restrained"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Reverent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rhapsodic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rollicking"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Romantic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rousing"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rowdy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Rustic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sacred"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sad"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sarcastic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sardonic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Satirical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Savage"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Scary"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Scattered"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Searching"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Self-Conscious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sensual"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sentimental"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Serious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Severe"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sexual"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sexy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Shimmering"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Silly"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sleazy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Slick"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Smooth"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Snide"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Soft/Quiet"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Somber"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Soothing"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sophisticated"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Spacey"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sparkling"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sparse"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Spicy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Spiritual"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Spontaneous"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Spooky"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sprawling"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sprightly"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Springlike"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Stately"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Street-Smart"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Striding"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Strong"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Stylish"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Suffocating"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sugary"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Summery"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Suspenseful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Swaggering"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Sweet"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Swinging"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Technical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Tender"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Tense/Anxious"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Theatrical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Thoughtful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Threatening"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Thrilling"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Thuggish"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Tragic"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Transparent/Translucent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Trashy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Trippy"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Triumphant"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Tuneful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Turbulent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Uncompromising"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Understated"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Unsettling"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Uplifting"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Urgent"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Virile"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Visceral"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Volatile"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Vulgar"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Warm"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Weary"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Whimsical"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Wintry"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Wistful"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Witty"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Wry"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Yearning"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Music Track",
+  "description": "A track is an individual song or instrumental recording.",
+  "add_schema_restricted_to_lead": true,
+  "create_entity_restricted_to_lead": false
+}
+// Only lead can add schemas.

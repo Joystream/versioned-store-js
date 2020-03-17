@@ -1,0 +1,88 @@
+{
+  "classId": "Book",
+  "newProperties": [
+    {
+      "name": "Title in English",
+      "description": "Title of the book in English.",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Original Title",
+      "description": "Title of the book in the language was originally written.",
+      "type": "Text",
+      "required": false,
+      "maxTextLength": 255
+    },
+    {
+      "name": "Author of Book",
+      "description": "The author or authors of the book",
+      "type": "TextVec",
+      "required": true,
+      "maxItems": 10,
+      "maxTextLength": 100
+    },
+    {
+      "name": "First Published",
+      "description": "When the book was first published in its original language.",
+      "required": true,
+      "type": "Int64"
+    },
+    {
+      "name": "Original Language",
+      "description": "Title of the book in the language was originally written.",
+      "type": "Internal",
+      "required": true,
+      "classId": "Language"
+    },
+    {
+      "name": "International Book Cover",
+      "description": "URL to book a thumbnail of the book cover. First edition in English if available, first edition in original language otherwise: NOTE: Should be an https link to an image of ratio 2:3, at least 500 pixels wide, in JPEG or PNG format.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "About the Book",
+      "description": "Information about the book in English",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "About the Author",
+      "description": "About the author or authors of the book in English",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 255
+    },
+    {
+      "name": "Book Category",
+      "description": "About the author or authors of the book in English",
+      "required": true,
+      "type": "Internal",
+      "classId": "Book Category"
+    },
+    {
+      "name": "Book Item",
+      "description": "A specific publication of the book. Ie. translation, illustrated version, etc.",
+      "type": "InternalVec",
+      "maxItems": 100,
+      "classId": "Book Item"
+    },
+    {
+      "name": "Publication Status",
+      "description": "The publication status of the book.",
+      "required": true,
+      "type": "Internal",
+      "classId": "Publication Status"
+    },
+    {
+      "name": "Curation Status",
+      "description": "The publication status of the book set by the a content curator on the platform.",
+      "type": "Internal",
+      "classId": "Curation Status"
+    }
+  ]
+}

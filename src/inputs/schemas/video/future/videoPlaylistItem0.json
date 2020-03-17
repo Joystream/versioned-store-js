@@ -1,0 +1,11 @@
+{
+  "classId": "Video Playlist Item",
+  "newProperties": [
+    {
+      "name": "Video",
+      "description": "The video entry.",
+      "type": "Internal",
+      "classId": "Video"
+    }
+  ]
+}

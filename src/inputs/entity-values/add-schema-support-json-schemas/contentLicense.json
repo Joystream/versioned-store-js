@@ -1,0 +1,50 @@
+{
+  "classId": "Content License",
+  "entities":
+  [
+      {
+          "entityId": 1,
+          "schemaId": 0,
+          "propertyValues":
+          [
+              {
+                  "name": "Value",
+                  "value": "Public Domain"
+              }
+          ]
+      },
+      {
+          "entityId": 1,
+          "schemaId": 0,
+          "propertyValues":
+          [
+              {
+                  "name": "Value",
+                  "value": "Original content"
+              }
+          ]
+      },
+      {
+          "entityId": 1,
+          "schemaId": 0,
+          "propertyValues":
+          [
+              {
+                  "name": "Value",
+                  "value": "Creative Commons (attribution required)"
+              }
+          ]
+      },
+      {
+          "entityId": 1,
+          "schemaId": 0,
+          "propertyValues":
+          [
+              {
+                  "name": "Value",
+                  "value": "Fair Use  (attribution required)"
+              }
+          ]
+      }
+  ]
+}

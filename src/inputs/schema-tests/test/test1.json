@@ -1,0 +1,26 @@
+{
+    "classId": "Test",
+    "existingProperties":
+        ["1","2","3","4","5","6","7","8","9","10"],
+    "newProperties": [
+        {
+            "name": "19",
+            "description": "19a",
+            "maxItems": 10,
+            "type": "InternalVec",
+            "classId": "Language"
+        },
+        {
+            "name": "20",
+            "description": "20a",
+            "maxItems": 100,
+            "type": "BoolVec"
+        },
+        {
+            "name": "21",
+            "description": "21a",
+            "maxItems": 100,
+            "type": "Uint16Vec"
+        }
+    ]
+}

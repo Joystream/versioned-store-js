@@ -1,0 +1,7 @@
+{
+  "name": "Video",
+  "description": "Class for general videos not assignable to a more specific video content type.",
+  "add_schema_restricted_to_lead": true,
+  "create_entity_restricted_to_lead": false
+}
+// Only lead can add schemas.

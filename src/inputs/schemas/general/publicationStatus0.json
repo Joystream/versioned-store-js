@@ -1,0 +1,12 @@
+{
+  "classId": "Publication Status",
+  "newProperties": [
+    {
+      "name": "Value",
+      "description": "The publication status of the content in the content directory.",
+      "required": true,
+      "type": "Text",
+      "maxTextLength": 50
+    }
+  ]
+}

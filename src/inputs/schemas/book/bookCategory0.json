@@ -1,0 +1,12 @@
+{
+  "classId": "Book Category",
+  "newProperties": [
+    {
+      "name": "Value",
+      "description": "Categories for books and book Series.",
+      "type": "Text",
+      "required": true,
+      "maxTextLength": 255
+    }
+  ]
+}

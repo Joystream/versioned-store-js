@@ -1,0 +1,12 @@
+{
+  "classId": "Curation Status",
+  "existingProperties":
+  ["Value"],
+  "newProperties": [
+    {
+      "name": "Reviewed and Approved",
+      "description": "The curator publication status of the content in the content directory.",
+      "type": "Bool"
+    }
+  ]
+}

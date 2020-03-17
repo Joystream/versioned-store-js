@@ -1,0 +1,28 @@
+{
+    "classId": "Publication Status",
+    "entities":
+    [
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Public"
+                }
+            ]
+        },
+        {
+            "entityId": 1,
+            "schemaId": 0,
+            "propertyValues":
+            [
+                {
+                    "name": "Value",
+                    "value": "Unlisted"
+                }
+            ]
+        }
+    ]
+}

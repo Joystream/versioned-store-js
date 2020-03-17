@@ -1,0 +1,7 @@
+{
+  "name": "Music Mood",
+  "description": "Class for setting the moods for music.",
+  "add_schema_restricted_to_lead": true,
+  "create_entity_restricted_to_lead": true
+}
+// Only lead can create entitites and add schemas.
