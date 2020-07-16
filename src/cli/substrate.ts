@@ -191,6 +191,13 @@ export class Substrate {
       return undefined
     }
 
+    // Output call details to be used in future
+    console.log(JSON.stringify({
+      "sectionName": tx.method.sectionName,
+      "methodName": tx.method.methodName,
+      "args": tx.method.args.map((arg) => arg.toJSON())
+    }));
+
     // Get the nonce for this account:
     const nonce = await this.api.query.system.accountNonce(this.keypair.address) as unknown as Uint8Array;
 
