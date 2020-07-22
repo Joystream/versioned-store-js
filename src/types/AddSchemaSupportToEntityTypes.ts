@@ -1,6 +1,6 @@
 import { u16 } from '@polkadot/types';
-import EntityId from '@joystream/types/lib/versioned-store/EntityId';
-import { VecClassPropertyValue } from '@joystream/types/lib/versioned-store';
+import EntityId from '@joystream/types/versioned-store/EntityId';
+import { VecClassPropertyValue } from '@joystream/types/versioned-store';
 import { PropertyNameAndValueInputType } from './PropertyTypes';
 import { EntityIdInputType } from './EntityIdType';
 

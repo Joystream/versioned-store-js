@@ -1,9 +1,9 @@
 
-import ClassPermissions from '@joystream/types/lib/versioned-store/permissions/ClassPermissions';
-import EntityPermissions from '@joystream/types/lib/versioned-store/permissions/EntityPermissions';
-import { CredentialSet } from '@joystream/types/lib/versioned-store/permissions/credentials';
+import ClassPermissions from '@joystream/types/versioned-store/permissions/ClassPermissions';
+import EntityPermissions from '@joystream/types/versioned-store/permissions/EntityPermissions';
+import { CredentialSet } from '@joystream/types/common';
 import { bool, u32 } from '@polkadot/types';
-import { ReferenceConstraint, /* NoConstraint */ } from '@joystream/types/lib/versioned-store/permissions/reference-constraint';
+import { ReferenceConstraint, /* NoConstraint */ } from '@joystream/types/versioned-store/permissions/reference-constraint';
 
 const CREDENTIAL_ONE = new u32(1);
 

@@ -1,5 +1,5 @@
-import EntityId from '@joystream/types/lib/versioned-store/EntityId';
-import { VecClassPropertyValue } from '@joystream/types/lib/versioned-store';
+import EntityId from '@joystream/types/versioned-store/EntityId';
+import { VecClassPropertyValue } from '@joystream/types/versioned-store';
 import { EntityIdInputType } from './EntityIdType';
 import { PropertyNameAndValueInputType } from './PropertyTypes';
 

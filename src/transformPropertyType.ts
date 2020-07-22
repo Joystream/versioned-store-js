@@ -1,5 +1,5 @@
-import PropertyType from '@joystream/types/lib/versioned-store/PropertyType';
-import * as PT from '@joystream/types/lib/versioned-store/PropertyType';
+import PropertyType from '@joystream/types/versioned-store/PropertyType';
+import * as PT from '@joystream/types/versioned-store/PropertyType';
 import { TransformationResult } from './transform';
 import { PropertyInputType } from './types/PropertyTypes';
 

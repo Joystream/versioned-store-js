@@ -8,13 +8,13 @@ import { KeypairType } from '@polkadot/util-crypto/types';
 import { SubmittableExtrinsic } from '@polkadot/api/promise/types';
 import { RpcEndpoints, greenItem } from './utils';
 import { registerJoystreamTypes } from '@joystream/types';
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
-import EntityId from '@joystream/types/lib/versioned-store/EntityId';
-import { Class, Entity } from '@joystream/types/lib/versioned-store';
-import PropertyTypeName from '@joystream/types/lib/versioned-store/PropertyTypeName';
+import ClassId from '@joystream/types/versioned-store/ClassId';
+import EntityId from '@joystream/types/versioned-store/EntityId';
+import { Class, Entity } from '@joystream/types/versioned-store';
+import { PropertyTypeName } from '@joystream/types/versioned-store/PropertyTypeName';
 import { EventData } from '@polkadot/types/primitive/Generic/Event';
-import ClassPermissions from '@joystream/types/lib/versioned-store/permissions/ClassPermissions'
-import { Credential } from '@joystream/types/lib/versioned-store/permissions/credentials';
+import ClassPermissions from '@joystream/types/versioned-store/permissions/ClassPermissions'
+import { Credential } from '@joystream/types/common';
 import { Option, u16 } from '@polkadot/types';
 
 import {

@@ -1,6 +1,6 @@
 import { EntityIdInputType } from './EntityIdType';
 import { ClassIdInputType } from './ClassIdType';
-import PropertyTypeName from '@joystream/types/lib/versioned-store/PropertyTypeName';
+import { PropertyTypeName } from '@joystream/types/versioned-store/PropertyTypeName';
 
 export type PropertyName = string;
 

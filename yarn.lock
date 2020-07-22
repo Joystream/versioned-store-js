@@ -294,15 +294,18 @@
     "@types/istanbul-reports" "^1.1.1"
     "@types/yargs" "^13.0.0"
 
-"@joystream/types@^0.10.0":
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/@joystream/types/-/types-0.10.0.tgz#7e98ef221410b26a7d952cfc3d1c03d28395ad69"
-  integrity sha512-RDZizqGKWGYpLR5PnUWM4aGa7InpWNh2Txlr7Al3ROFYOHoyQf62/omPfEz29F6scwlFxysOdmEfQaLeVRaUxA==
+"@joystream/types@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.yarnpkg.com/@joystream/types/-/types-0.12.0.tgz#4033967ae2ac111f894fb4100e414f7cdbe95611"
+  integrity sha512-pHHYTbIa6V1C4k9aj+M6Fkwa2I2Br+4x7cuvREmrVh21GHjGuzoIwB74MfqFajdSTDQDZbjdixcYDES6uo3sUg==
   dependencies:
+    "@polkadot/keyring" "^1.7.0-beta.5"
     "@polkadot/types" "^0.96.1"
+    "@types/lodash" "^4.14.157"
     "@types/vfile" "^4.0.0"
     ajv "^6.11.0"
     lodash "^4.17.15"
+    moment "^2.24.0"
 
 "@polkadot/api-derive@^0.96.1":
   version "0.96.1"
@@ -522,6 +525,11 @@
   integrity sha512-Fb38HkXSVA4L8fGKEZ6le5bB8r6MRWlOCZbVuWZcmOMSCd2wCYOwN1ibj8daIoV9naq7aaOZjrLCoCMptKU/4Q==
   dependencies:
     jest-diff "^24.3.0"
+
+"@types/lodash@^4.14.157":
+  version "4.14.158"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.158.tgz#b38ea8b6fe799acd076d7a8d7ab71c26ef77f785"
+  integrity sha512-InCEXJNTv/59yO4VSfuvNrZHt7eeNtWQEgnieIA+mIC+MOWM9arOWG2eQ8Vhk6NbOre6/BidiXhkZYeDY9U35w==
 
 "@types/memoizee@^0.4.3":
   version "0.4.3"

@@ -1,4 +1,4 @@
-//import PropertyTypeName from '@joystream/types/lib/versioned-store/PropertyTypeName';
+//import { PropertyTypeName } from '@joystream/types/versioned-store/PropertyTypeName';
 /*
 function stringToArray(input:string) {
   const array:string[] = []

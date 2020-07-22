@@ -3,13 +3,13 @@ import { transformClassSchemaByNameToId } from "../cli/transform";
 import { prettyClass } from '../cli/printers';
 import { checkUniqueClassNamesFromJson } from "../cli/checks";
 import { CreateClassInputType, AddClassSchemaInputByClassNameType, ClassSchemaInputByClassNameType } from '../types';
-import ClassPermissions from '@joystream/types/lib/versioned-store/permissions/ClassPermissions';
-import EntityPermissions from '@joystream/types/lib/versioned-store/permissions/EntityPermissions';
-import { CredentialSet, Credential } from '@joystream/types/lib/versioned-store/permissions/credentials';
+import ClassPermissions from '@joystream/types/versioned-store/permissions/ClassPermissions';
+import EntityPermissions from '@joystream/types/versioned-store/permissions/EntityPermissions';
+import { CredentialSet, Credential } from '@joystream/types/common';
 import { bool, u32, Option } from '@polkadot/types';
-import { ReferenceConstraint } from '@joystream/types/lib/versioned-store/permissions/reference-constraint';
+import { ReferenceConstraint } from '@joystream/types/versioned-store/permissions/reference-constraint';
 import { transformAddClassSchema } from '../transformAddClassSchema'
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
+import ClassId from '@joystream/types/versioned-store/ClassId';
 import { validateCreateClass } from '../validate'
 
 import {

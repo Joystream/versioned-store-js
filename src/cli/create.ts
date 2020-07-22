@@ -6,7 +6,7 @@ import { CreateClassInputType,
   PropertyName, PropertyInputType, PropertyInputByClassNameType, PropertyByNameMap,
   AddClassSchemaInputType, AddClassSchemaInputByClassNameType
  } from '../types'
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
+import ClassId from '@joystream/types/versioned-store/ClassId';
 
 export async function createClassJson(name:string, description:string, sub: Substrate): Promise<CreateClassInputType> {
   const classJson: CreateClassInputType = 

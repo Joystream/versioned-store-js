@@ -1,7 +1,7 @@
 import { validateCreateEntity } from './validate';
 import { CreateEntityInputType, CreateEntityOutputType } from './types/CreateEntityTypes';
 import { TransformationResult, wrapValidationErrors } from './transform';
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
+import ClassId from '@joystream/types/versioned-store/ClassId';
 
 export function transformCreateEntity(
   inputData: CreateEntityInputType

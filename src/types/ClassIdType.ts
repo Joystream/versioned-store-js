@@ -1,4 +1,4 @@
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
+import ClassId from '@joystream/types/versioned-store/ClassId';
 import { Text } from '@polkadot/types';
 
 export type ClassIdInputType = ClassId | number;

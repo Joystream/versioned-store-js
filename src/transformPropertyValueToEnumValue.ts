@@ -1,7 +1,7 @@
-import * as PV from '@joystream/types/lib/versioned-store/PropertyValue';
+import * as PV from '@joystream/types/versioned-store/PropertyValue';
 import { EntityIdInputType } from './types/EntityIdType';
 import { PropertyValueInputType } from './types/PropertyTypes';
-import PropertyTypeName from '@joystream/types/lib/versioned-store/PropertyTypeName';
+import { PropertyTypeName } from '@joystream/types/versioned-store/PropertyTypeName';
 
 export function transformPropertyValueToEnum(propType: PropertyTypeName, value: PropertyValueInputType): PV.PropertyValueEnumValue {
 

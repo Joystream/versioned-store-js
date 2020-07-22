@@ -1,6 +1,6 @@
 import { ClassIdInputType } from './ClassIdType';
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
-import { VecProperty, VecU16 } from '@joystream/types/lib/versioned-store';
+import ClassId from '@joystream/types/versioned-store/ClassId';
+import { VecProperty, VecU16 } from '@joystream/types/versioned-store';
 import { PropertyName, PropertyInputType, PropertyInputByClassNameType } from './PropertyTypes';
 
 export type AddClassSchemaInputType = {
