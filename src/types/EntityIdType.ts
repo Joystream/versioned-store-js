@@ -1,3 +1,3 @@
-import EntityId from '@joystream/types/lib/versioned-store/EntityId';
+import EntityId from '@joystream/types/versioned-store/EntityId';
 
 export type EntityIdInputType = EntityId | number;

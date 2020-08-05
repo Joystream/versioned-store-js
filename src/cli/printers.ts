@@ -1,4 +1,4 @@
-import { Class, VecProperty, Entity } from '@joystream/types/lib/versioned-store';
+import { Class, VecProperty, Entity } from '@joystream/types/versioned-store';
 
 // tslint:disable-next-line:import-name
 import BN from 'bn.js';

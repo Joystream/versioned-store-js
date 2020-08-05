@@ -1,7 +1,7 @@
 import { Substrate } from './substrate';
 import { prettyClass, prettyEntity } from '../cli/printers';
 import { checkForDuplicateExistingClassNames } from '../cli/checks';
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
+import ClassId from '@joystream/types/versioned-store/ClassId';
 import { ClassIdInputType, ClassIdandName, ClassIdToNameMap, ClassNameToIdMap, ClassIdToNameAndSchemasMap } from '../types/ClassIdType';
 import BN from 'bn.js';
 import { PropertyByNameMap, EntityIdInputType } from '../types';

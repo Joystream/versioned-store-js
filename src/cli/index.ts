@@ -56,10 +56,10 @@ import {
  } from './transform'
 */
 import { bool, u32, Option } from '@polkadot/types';
-import { CredentialSet, Credential } from '@joystream/types/lib/versioned-store/permissions/credentials';
-import ClassPermissions from '@joystream/types/lib/versioned-store/permissions/ClassPermissions';
-import EntityPermissions from '@joystream/types/lib/versioned-store/permissions/EntityPermissions';
-import { ReferenceConstraint, NoConstraint } from '@joystream/types/lib/versioned-store/permissions/reference-constraint';
+import { CredentialSet, Credential } from '@joystream/types/common';
+import ClassPermissions from '@joystream/types/versioned-store/permissions/ClassPermissions';
+import EntityPermissions from '@joystream/types/versioned-store/permissions/EntityPermissions';
+import { ReferenceConstraint, NoConstraint } from '@joystream/types/versioned-store/permissions/reference-constraint';
 
 import { CreateClassInputType
   /*,

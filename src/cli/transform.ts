@@ -1,5 +1,5 @@
 import { Substrate } from './substrate';
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
+import ClassId from '@joystream/types/versioned-store/ClassId';
 import { ClassIdInputType,
   AddClassSchemaInputType, AddClassSchemaInputByClassNameType,
   PropertyInputType,

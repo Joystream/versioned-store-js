@@ -1,18 +1,18 @@
 import { Substrate } from "../cli/substrate";
 import { prettyEntity } from '../cli/printers';
 import { checkForDuplicateExistingClassNames } from "../cli/checks";
-import { Credential } from '@joystream/types/lib/versioned-store/permissions/credentials';
+import { Credential } from '@joystream/types/common';
 import { bool, u32, Option, Vec } from '@polkadot/types';
-import { OperationType} from '@joystream/types/lib/versioned-store/permissions/batching/operation-types';
-import { Operation } from '@joystream/types/lib/versioned-store/permissions/batching/';
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
-import EntityId from '@joystream/types/lib/versioned-store/EntityId';
-import { ParametrizedEntity } from '@joystream/types/lib/versioned-store/permissions/batching/parametrized-entity';
-import { ParametrizedPropertyValue } from '@joystream/types/lib/versioned-store/permissions/batching/parametrized-property-value';
-import ParametrizedClassPropertyValue from '@joystream/types/lib/versioned-store/permissions/batching/ParametrizedClassPropertyValue';
+import { OperationType} from '@joystream/types/versioned-store/permissions/batching/operation-types';
+import { Operation } from '@joystream/types/versioned-store/permissions/batching/';
+import ClassId from '@joystream/types/versioned-store/ClassId';
+import EntityId from '@joystream/types/versioned-store/EntityId';
+import { ParametrizedEntity } from '@joystream/types/versioned-store/permissions/batching/parametrized-entity';
+import { ParametrizedPropertyValue } from '@joystream/types/versioned-store/permissions/batching/parametrized-property-value';
+import ParametrizedClassPropertyValue from '@joystream/types/versioned-store/permissions/batching/ParametrizedClassPropertyValue';
 import { transformPropertyValueToEnum } from '../transformPropertyValueToEnumValue'
 import { PropertyByNameMap, UpdateEntityPropertyValuesInputType } from '../types';
-import { PropertyValueEnumValue } from '@joystream/types/lib/versioned-store/PropertyValue';
+import { PropertyValueEnumValue } from '@joystream/types/versioned-store/PropertyValue';
 
 import entityJsons = require('../inputs/entity-values/update-entities/index.js');
 

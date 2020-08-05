@@ -1,7 +1,7 @@
 import { AddClassSchemaInputType, AddClassSchemaOutputType } from './types/AddClassSchemaTypes';
 import { validateAddClassSchema } from './validate';
-import ClassId from '@joystream/types/lib/versioned-store/ClassId';
-import { Property, VecU16, VecProperty } from '@joystream/types/lib/versioned-store';
+import ClassId from '@joystream/types/versioned-store/ClassId';
+import { Property, VecU16, VecProperty } from '@joystream/types/versioned-store';
 import { u16, bool as Bool, Text } from '@polkadot/types';
 import { TransformationResult, wrapValidationErrors } from './transform';
 import { PropertyByNameMap } from './types/PropertyTypes';

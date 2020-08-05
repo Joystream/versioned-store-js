@@ -1,9 +1,9 @@
-import * as PV from '@joystream/types/lib/versioned-store/PropertyValue';
-import { PropertyValue } from '@joystream/types/lib/versioned-store/PropertyValue';
+import * as PV from '@joystream/types/versioned-store/PropertyValue';
+import { PropertyValue } from '@joystream/types/versioned-store/PropertyValue';
 import { EntityIdInputType } from './types/EntityIdType';
 import { TransformationResult } from './transform';
 import { PropertyValueInputType } from './types/PropertyTypes';
-import PropertyTypeName from '@joystream/types/lib/versioned-store/PropertyTypeName';
+import { PropertyTypeName } from '@joystream/types/versioned-store/PropertyTypeName';
 
 export function transformPropertyValue(propType: PropertyTypeName, value: PropertyValueInputType): TransformationResult<string, PropertyValue> {
 
